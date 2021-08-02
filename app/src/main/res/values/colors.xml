@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+        <color name="colorPrimary">#00000000</color>
+        <color name="colorPrimaryDark">#000000</color>
+        <!--<color name="colorCard">#6c169b</color>-->
+        <!--<color name="colorCard">#ede269</color>-->
+        <!--<color name="colorCard">#f1c544</color>-->
+        <color name="colorCard">#fdb548</color>
+        <!--<color name="colorCard">#8c5f4b</color>-->
+        <color name="colorAccent">#491615</color>
+        <color name="colorListElements">#e7e7c8</color>
+        <color name="colorListElementsText">#66199c</color>
+        <!--    <color name="header_color">#020202</color>-->
+        <color name="header_color">#fcb58b</color>
+        <color name="floating_color">#466b3c</color>
+        <color name="content_color">#F1E5C1</color>
+        <!--    <color name="content_color">#490101</color>-->
+        <color name="card_frame_color">#000000</color>
+        <color name="card_header_line_color">#000000</color>
+
+        <color name="background_color">#2b4961</color>
+        <color name="navigation_text_color">#666666</color>
+        <color name="white1">#ffffff</color>
+        <color name="fabcolor">#ffffff</color>
+        <color name="fabicon">#FC9E33</color>
+        <color name="black1">#000000</color>
+        <color name="transparent">#00000000</color>
+        <color name="semitransparent_white">#50ffffff</color>
+        <color name="colorDialogBG">#ffffff</color>
+        <color name="colorDialogTitleText">#202125</color>
+        <color name="colorDialogPositive">#504651</color>
+        <color name="colorDialogNegative">#504651</color>
+
+        <color name="colorSwitchBackground">#d7d7d7</color>
+        <color name="colorSwitchOn">#4b944e</color>
+        <color name="colorSwitchOff">#ca5e3b</color>
+        <color name="colorDialogTime">#657be2</color>
+
+        <color name="colorMainCardText">#66199c</color>
+        <color name="nav_color">#ff8f07</color>
+        <color name="gadanie">#466b3c</color>
+
+
+</resources>

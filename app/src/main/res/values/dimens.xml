@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_elements_padding">10dp</dimen>
+    <dimen name="text_margin_bottom">15dp</dimen>
+    <dimen name="text_margin_top">18dp</dimen>
+    <dimen name="text_header_size">19sp</dimen>
+    <dimen name="content_text_size">16.5sp</dimen>
+    <dimen name="margin_content_end_start">16dp</dimen>
+    <dimen name="content_margin_bottom">16dp</dimen>
+    <dimen name="calendar_date_text_size">19sp</dimen>
+    <dimen name="main_card_header_text_size">20sp</dimen>
+
+    <dimen name="design_navigation_icon_size" tools:override="true">40dp</dimen>
+    <dimen name="icons_share_copy_dims">28dp</dimen>
+    <dimen name="space_between_button_and_date">2dp</dimen>
+    <dimen name="toolbar_margin">15dp</dimen>
+
+</resources>
